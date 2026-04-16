@@ -1,5 +1,5 @@
 {
   "latest_version": 9,
   "update_url": "https://github.com/Dpsupercop007/version.json/releases/download/v9/client.apk",
-  "force_update": false
+  "force_update": true
 }
